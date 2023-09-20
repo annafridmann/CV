@@ -139,11 +139,11 @@ header {
   position: relative;
   list-style: none;
   margin: 10px 0;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .contact ul li a {
-  text-decoration: none;
+  /* text-decoration: none; */
   color: #ffffff;
 }
 
